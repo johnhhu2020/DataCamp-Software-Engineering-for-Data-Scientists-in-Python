@@ -1,7 +1,7 @@
 # DataCamp-Software-Engineering-for-Data-Scientists-in-Python
 
 
-## Please help me check and text this package
+## Please help me improving this package
 
 it should be work as expected, but I suggest you pull some data from Twitter API
 
