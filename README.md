@@ -6,6 +6,7 @@
 it should be work as expected, but I suggest you pull some data from Twitter API
 
 ```
+###########################################################################################################################################
 (datacmap_data_engineering) jhu@debian:~/datacmap_data_engineering$ python text_analyzer_script.py 
 [('RT', 66), ('Trump', 37), ('the', 25), ('for', 25), ('to', 20), ('of', 20), ('a', 17), ('is', 15), ('Donald', 11), ('in', 10), ('Cruz', 9), ('#Trump', 9), ('and', 9), ('@realDonaldTrump', 9), ('The', 8)]
 [('#Trump', 9), ('#NeverTrump', 4), ('#SleazyDonald', 2), ('#LyinTrump', 2), ('#CruzCrew', 2)]
